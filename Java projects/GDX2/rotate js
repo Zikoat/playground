@@ -1,0 +1,8 @@
+angle = (angle ) * (Math.PI/180); // Convert to radians
+// because method takes radians
+var rotatedY  = Math.sin(angle)     * (point.x - center.x)  + Math.cos(angle) * (point.y - center.y)  + center.y;
+new y coord   = sin(angle(radians)) * radius                + cos(angle)      *radius                 + y coord of center
+
+var rotatedX = Math.cos(angle) * (point.x - center.x) - Math.sin(angle) * (point.y-center.y) + center.x;
+
+return new createjs.Point(rotatedX,rotatedY);

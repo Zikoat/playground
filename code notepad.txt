@@ -1,0 +1,20 @@
+COMMAND:	DESCRIPTION:
+cd 		change directory
+ls		list files and directories
+	-a 	also list hidden
+	-l 	long format
+	-t 	order by time
+touch (arg)	make empty file
+pwd		print working directory	
+mkdir 		make directory
+cp (list of sources) (destination)	copy
+
+
+GMnet notes
+htme_serverStart(port, maxplayers)
+htme_clientStart(ip,port)
+
+vpn:
+phu6Isei
+osl-c02.ipvanish.com
+osl-c01.ipvanish.com

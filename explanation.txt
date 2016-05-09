@@ -1,0 +1,3 @@
+a collection of all the tiny programs i have written, which havent gotten their own repo
+
+remove this from dropbox and put it into workspace

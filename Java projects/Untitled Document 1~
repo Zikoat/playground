@@ -1,0 +1,17 @@
+how 2 get libgdx to work
+
+make project:
+	use libgdx project setup uo thing
+	html doesnt work
+	dont have android sdk
+	not interested in ios
+	only desktop works
+built with only dekstop and extensions
+open in intellij idea
+edit build.gradle
+	add repositories:
+
+maven { url "http://repo1.maven.org/maven2" }
+
+	dont know if need others.
+	update repo's?

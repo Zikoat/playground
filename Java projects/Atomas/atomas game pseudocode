@@ -1,0 +1,32 @@
+atomas game
+max 18
+19 - død
+
+game:
+every move{
+	have a random(dont know random[1]) number in hand
+	may get super	
+	insert the ATOM between 2 elements in the array
+	move both to the sides(or 1)
+	
+	for all +supers
+		if both sides of super are equal
+			get both sides
+			super = max(side, super) +1
+			destroy both sides
+			get points for these
+	
+	if arraylength(atoms) > 18
+		game end
+}
+
+[1] game may get quadratically harder(whithout space)
+
+make the game play itself, random insert numbers, get score.
+[make nodes] know where to place, communicate with right atoms
+
+make calculations of every place
+
+points are how many you get on the board before you die. 
+atom number is independent of score
+
