@@ -1,2 +1,2 @@
 # playground
-a collection of prohjects i have done, which aren't organized
+a collection of all the tiny projects i have written, which havent gotten their own repo
